@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\bin\Debug\net6.0\Game.exe
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\bin\Debug\net6.0\Game.deps.json
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\bin\Debug\net6.0\Game.runtimeconfig.json
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\bin\Debug\net6.0\Game.dll
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\bin\Debug\net6.0\ref\Game.dll
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\bin\Debug\net6.0\Game.pdb
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\obj\Debug\net6.0\Game.dll
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\obj\Debug\net6.0\ref\Game.dll
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\obj\Debug\net6.0\Game.pdb
+C:\Users\ramon\Documents\CF127FT\Assignments\MC W3D2 Game\ConsoleGame\obj\Debug\net6.0\Game.genruntimeconfig.cache
