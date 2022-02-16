@@ -46,16 +46,17 @@ switch(listenTo)
     break;
 }
 
-// The Battles: Cory
+// Fighting Scenes
+// Cory
 Console.WriteLine("Turning into the living room, you run into Cory watching Wife Swap.\n Going to school with him, you know that he knows you know he has a losing stretch in wrestling, but is still strong.\n He sees you and stands up, fist clutching, smirk on his face as he's been waiting to fight you.\n Lugging at each other, the battle begins!\n\n");
 Console.WriteLine(playerName + " You have encountered Cory and he is coming for blood! What will you do?\n Choose a number from 1 - 15.\n\n");
 string response = System.Console.ReadLine();
 int pick = int.Parse(response);
-string output = pick <= 9 ? "Dang, where did this strength come from?." : "Such an easy fight, you totally forgot how weak Cory is.";
+string output = pick <= 9 ? "Dang, where did this strength come from?." : "You have something up your sleeve.";
 Console.WriteLine(output);
 if (pick <= 11)
 {
-    Console.WriteLine("The fight is not going the way you thought. As you both stand there, deep breathing, you fast-forward in your head for a special, unprepared move that'll help you win. Yes,Wrestling, your favorite Wrestler, Stone Cold Steve Austin! Slowly gettin closer to until you're at the right distance and kick him in his stomach, spins to grab his head and drop, hard, on the ground. `Stone Cold Stunner` you executed on him! He's out! You Win!");
+    Console.WriteLine("The fight is not going the way you thought. As you both stand there, heavy breathing, you fast-forward in your head for a special, unprepared move that'll help you win. Yes, Wrestling, your favorite Wrestler, Stone Cold Steve Austin! You try for one last move. Slowly gettin closer to until you're at the right distance and kick him in his stomach, spins to grab his head and drop, hard, on the ground. `Stone Cold Stunner` you executed on him! He's out! You Win!");
 }
 else
 {
@@ -63,7 +64,7 @@ else
 }
 Console.WriteLine("VICTORY!! One down, three more to go."); 
 
-// The Battles: Becky
+// Becky
 Console.WriteLine("After collecting yourself, you rush to the next room, the kitchen, not seeing Becky sitting at the kitchen table drinking her gluten free, kale, ginger smoothy.\n Without missing a beat, you throw yourself on the ground because Becky threw her glass cup of juice at you.\n Lugging towards you, you hurry off the floor to fight Becky.\n\n");
 Console.WriteLine(playerName + " You have encountered Becky and she is coming for blood! What will you do?\n Choose a number from 1 - 15.\n\n");
 string response1 = System.Console.ReadLine();
@@ -72,7 +73,7 @@ string output1 = pick1 <= 9 ? "Girl Got Nails! But you, you got fire burning in 
 Console.WriteLine(output1);
 if (pick <= 11)
 {
-    Console.WriteLine("Running around the kitchen has become your best options. Your face, neck, and arms are screaming of cuts from Becky. Looking around for something, you see a cell phone on the kitchen table where Becky was sitting. Her Phone! You dash towards it, Becky not knowing what's going on, you grab her phone, hand held high. Becky stops out of fear. Pleaing for you not to break it, but you don't care about Becky. SMASH!! Thrown to the the wall, exploding her phone. She crumbles to its aid, losing it on the phone in tears. You Broke Becky.");
+    Console.WriteLine("Running around the kitchen is your best options. Your face, neck, and arms are screaming from cuts deep in your flesh. Becky is a wild animal. Looking around for something, you see a cell phone on the kitchen table where Becky was sitting. Her Phone! You dash towards it, Becky not knowing what's going on, you grab her phone, hand held high. Becky stops out of fear. Pleaing for you not to break it, but you don't care about Becky. SMASH!! Thrown to the the wall, exploding her phone. She crumbles to its aid, losing it on the phone in tears. You Broke Becky.");
 }
 else
 {
@@ -80,7 +81,7 @@ else
 }
 Console.WriteLine("VICTORY!! Two down, two more to go."); 
 
-// The Battles: Kyle
+// Kyle
 Console.WriteLine("Needing to hide and catch a breath, clean up a little, you scan the house for the bathroom.\n Located and closed the door behind you.\n While using the sink, Kyle opens the door to find you in it.\n\n");
 Console.WriteLine(playerName + " You have encountered Kyle and he is coming for blood! What will you do?\n Choose a number from 1 - 15.\n\n");
 string response2 = System.Console.ReadLine();
@@ -89,16 +90,16 @@ string output2 = pick2 <= 11 ? "You have found a stronger opponent." : "Think Th
 Console.WriteLine(output2);
 if (pick <= 9)
 {
-    Console.WriteLine("As he reaches to grab you by the shirt, you're already on guard. Toilet plugger hiding in your left hand, you swing it and hit him in the head. While he's catching his balance, you plunge his face, running forward, causing him to fall back and twist his ankle. Weapons are your friends because they be helping you win.");
+    Console.WriteLine("As he reaches to grab you by the shirt, you're already on guard. Toilet plugger hiding in your left hand, you swing it and hitting him in the head! While he's catching his balance, you plunge his face, running forward, causing him to fall back and twist his ankle. This man is Out! You run away, hoping to find Froggy.");
 }
 else
 {
-    Console.WriteLine("Not giving up, you remember the argument Karen and Kyle had. Screeching to the top of your lungs, Kyle's caught off guard. Making up some sob story about why you have to get Froggy back, and promise to buy him a gift card for a date night, you hope he just let you go and directs you to Karen.\n Kyle not caring and still angry with you, he reaches to grab you by the shirt, you're already on guard. Toilet plugger hiding in your left hand, you swing it and hit him in the head. While he's catching his balance, you plunge his face, running forward, causing him to fall back and twist his ankle. Weapons are your friends because they be helping you win.");
+    Console.WriteLine("Not giving up, you remember the argument Karen and Kyle had. Screeching at the top of your lungs, you caught Kyle off guard. Making up some sob story about why you have to get Froggy back, and promise to buy him a gift card for a date night, you hope he just let you go and directs you to Karen.\n Nah, he doesn't care, still angry with you, he reaches to grab you by the shirt. Same time, you reach for the toilet plugger, reaching for you above the toilet seat. You swing it and hit him in the head! While he's catching his balance, you plunge his face, running forward, causing him to fall back and twist his ankle. This man is Out! Running away, hoping to be closer on finding Froggy.");
 }
 Console.WriteLine("VICTORY!! Three down, one more to go."); 
 
 
-// The Battles: Karen
+// Karen
 Console.WriteLine("After your defeat, getting your breath back, you can hear Froggy whimpering nearby.\n Running to where you believe you hear his cry, you stop in the laundry room.\n Walls with only one entry, you start freaking out.\n Getting angry, you start raging - kicking the washer machine and dryer, and knocking down laundry soap bottles.\n Froggy starts crying louder! Then total silence.\n 'I'm going to call your mom if you don't get out of my house!' you hear Karen say, as she's blocking the entrance, while holding Froggy in a cat cage.\n Thinking of your options, you make a decision of either letting your mom being called , or handling Karen, like you did her family.\n What will you do " + playerName + "?" + "\n Choose a number from 1 - 15.\n\n");
 string response3 = System.Console.ReadLine();
 int pick3 = int.Parse(response3);
