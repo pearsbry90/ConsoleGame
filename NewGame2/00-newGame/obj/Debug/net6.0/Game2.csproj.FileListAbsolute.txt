@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\bin\Debug\net6.0\Game2.exe
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\bin\Debug\net6.0\Game2.deps.json
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\bin\Debug\net6.0\Game2.runtimeconfig.json
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\bin\Debug\net6.0\Game2.dll
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\bin\Debug\net6.0\ref\Game2.dll
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\bin\Debug\net6.0\Game2.pdb
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\obj\Debug\net6.0\Game2.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\obj\Debug\net6.0\Game2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\obj\Debug\net6.0\Game2.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\obj\Debug\net6.0\Game2.AssemblyInfo.cs
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\obj\Debug\net6.0\Game2.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\obj\Debug\net6.0\Game2.dll
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\obj\Debug\net6.0\ref\Game2.dll
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\obj\Debug\net6.0\Game2.pdb
+C:\Users\ramon\Documents\CF127FT\Assignments\NewGame2\00-newGame\obj\Debug\net6.0\Game2.genruntimeconfig.cache
